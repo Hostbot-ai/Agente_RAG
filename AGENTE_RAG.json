@@ -13,13 +13,7 @@
       "position": [
         1040,
         340
-      ],
-      "credentials": {
-        "openAiApi": {
-          "id": "0A9w50yv72CDepcC",
-          "name": "OpenAi account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -33,13 +27,7 @@
       "position": [
         1620,
         420
-      ],
-      "credentials": {
-        "openAiApi": {
-          "id": "0A9w50yv72CDepcC",
-          "name": "OpenAi account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -53,13 +41,7 @@
       "position": [
         1240,
         580
-      ],
-      "credentials": {
-        "openAiApi": {
-          "id": "0A9w50yv72CDepcC",
-          "name": "OpenAi account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -95,13 +77,7 @@
       "position": [
         1240,
         400
-      ],
-      "credentials": {
-        "supabaseApi": {
-          "id": "4rl5OZ3jrY1HiBbR",
-          "name": "Supabase account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -139,13 +115,7 @@
       "position": [
         1420,
         1120
-      ],
-      "credentials": {
-        "openAiApi": {
-          "id": "0A9w50yv72CDepcC",
-          "name": "OpenAi account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -170,14 +140,7 @@
       "position": [
         420,
         1000
-      ],
-      "executeOnce": true,
-      "credentials": {
-        "googleDriveOAuth2Api": {
-          "id": "i11XAku6OHKMD2jj",
-          "name": "Google Drive account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -384,13 +347,7 @@
       "position": [
         -240,
         1000
-      ],
-      "credentials": {
-        "googleDriveOAuth2Api": {
-          "id": "i11XAku6OHKMD2jj",
-          "name": "Google Drive account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -427,13 +384,7 @@
       "position": [
         1520,
         860
-      ],
-      "credentials": {
-        "supabaseApi": {
-          "id": "4rl5OZ3jrY1HiBbR",
-          "name": "Supabase account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -449,14 +400,7 @@
       "position": [
         220,
         1000
-      ],
-      "alwaysOutputData": true,
-      "credentials": {
-        "supabaseApi": {
-          "id": "4rl5OZ3jrY1HiBbR",
-          "name": "Supabase account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -486,16 +430,7 @@
       "position": [
         -80,
         20
-      ],
-      "id": "45ab3f5d-a5bd-4d91-b17c-2667f6f41d75",
-      "name": "Telegram Trigger",
-      "webhookId": "65854cef-519e-46e9-8443-c17357caf81d",
-      "credentials": {
-        "telegramApi": {
-          "id": "sPr9AwSizoZXYW3T",
-          "name": "Telegram account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -510,15 +445,7 @@
       "position": [
         1560,
         0
-      ],
-      "id": "05a46894-d5f2-4b0b-9522-5b3573df1adb",
-      "name": "Telegram",
-      "credentials": {
-        "telegramApi": {
-          "id": "sPr9AwSizoZXYW3T",
-          "name": "Telegram account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -530,15 +457,7 @@
       "position": [
         1200,
         220
-      ],
-      "id": "3822c5d1-03a3-48b9-aa8d-85b0cadc9227",
-      "name": "Postgres Chat Memory",
-      "credentials": {
-        "postgres": {
-          "id": "rlm4SvGcMSNFZyX7",
-          "name": "Postgres account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -550,15 +469,7 @@
       "position": [
         400,
         180
-      ],
-      "id": "8592c6a1-7d75-43a9-beb6-8605848bc92a",
-      "name": "Telegram1",
-      "credentials": {
-        "telegramApi": {
-          "id": "sPr9AwSizoZXYW3T",
-          "name": "Telegram account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
@@ -605,15 +516,7 @@
       "position": [
         600,
         180
-      ],
-      "id": "8e64e15c-ba14-4110-97f2-f7a4acbe9989",
-      "name": "OpenAI",
-      "credentials": {
-        "openAiApi": {
-          "id": "0A9w50yv72CDepcC",
-          "name": "OpenAi account"
-        }
-      }
+      ]
     },
     {
       "parameters": {
